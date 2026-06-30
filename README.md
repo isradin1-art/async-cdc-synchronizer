@@ -23,7 +23,8 @@ The behavioral simulation under asynchronous conditions demonstrates the **Under
 
 However, because the data is encoded in Gray Code at the boundary, **only one bit changes at any specific sampling edge**. This eliminates the risk of sampling corrupted or mixed values (e.g., catching a transition mid-way), providing a perfectly stable and clean output bus.
 
-<img width="1247" height="685" alt="image" src="https://github.com/user-attachments/assets/a019180c-9d8e-4669-8613-9cb7ddeea10c" />
+<img width="1250" height="683" alt="image" src="https://github.com/user-attachments/assets/740423de-2019-42ba-bb0f-1e40d8bc33da" />
+
 
 
 ## Design Constraints (XDC)
